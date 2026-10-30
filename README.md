@@ -1,6 +1,6 @@
-# CodeAlpha_TaskAutomation
+# TaskAutomation
 
-**CodeAlpha Python Programming Internship - Task 3**
+** Python Programming **
 
 One menu-driven script with all three automation ideas from the brief:
 
