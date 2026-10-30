@@ -1,0 +1,8 @@
+Contact list - CodeAlpha Internship Batch
+
+Mentor:   mentor.team@codealpha.tech
+Support:  services@codealpha.tech, services.codealpha@gmail.com
+Intern:   Rahul.Sharma99@example.com (please reply by Friday)
+Duplicate: SERVICES@codealpha.tech
+Not an email: hello@ or @world or just-text.com
+Another one -> priya_k+python@mail.co.in.
